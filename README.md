@@ -7,5 +7,5 @@ Soy estudiante de Ingenieria Industrial, considero que mis habilidades y fortale
 
 # BravoGestor
 El nombre que he elegido es el siguiente: 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/47ad1c27-f548-464c-ad05-c966365a6e84" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/47ad1c27-f548-464c-ad05-c966365a6e84" />
 Nota: La illustración es generada con IA
