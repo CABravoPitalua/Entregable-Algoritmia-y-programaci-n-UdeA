@@ -12,3 +12,6 @@ El nombre que he elegido es el siguiente:
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/47ad1c27-f548-464c-ad05-c966365a6e84" />
 
 Nota: La illustración es generada con IA
+
+# Objetivo
+El objetivo de el proyecto de basa en desarrollar un sistema de consola que ayude al usuario a gestionar prestamos de materiales, el cual permita registrar usuarios, materiales, gestionar los tiempos de prestamo y devolución.
