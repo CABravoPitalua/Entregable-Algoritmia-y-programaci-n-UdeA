@@ -13,5 +13,13 @@ El nombre que he elegido es el siguiente:
 
 Nota: La illustración es generada con IA
 
-# Objetivo
-El objetivo de el proyecto de basa en desarrollar un sistema de consola que ayude al usuario a gestionar prestamos de materiales, el cual permita registrar usuarios, materiales, gestionar los tiempos de prestamo y devolución.
+# Reporte de visión
+**Objetivo**
+
+El objetivo de el proyecto de basa en desarrollar un sistema de consola que ayude al usuario a gestionar prestamos de materiales, el cual permita registrar usuarios, materiales, gestionar los tiempos de prestamo y devolución; y así a su vez medir el aprendizaje del curso y poner en marcha lo aprendido en el curso.
+
+ **Beneficios**
+Los beneficios que esperan para el administrador de la consola son los siguientes: 
+Mejorar el orden y control de prestamos y devoluciones, reduior errores, facilitar información, hacer seguimiento de usuarios y materiales.
+
+
