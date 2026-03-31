@@ -3,7 +3,7 @@ Actividad evaluativa del cuso Algoritmia y programacion para ingenieros de la Un
 # Integrantes
 **Camila Andrea Bravo Pitalua**
 
-Tras no llegar a un acuerdo de compromisos con los compañeros acordados para realizar el trabajo, lo realizaré de manera individual por lo tanto relizaré todas las actividades que determinen el exito de la actividas.
+Tras no llegar a un acuerdo de compromisos con los compañeros del grupo de estudio para realizar el trabajo, lo realizaré de manera individual por lo tanto relizaré todas las actividades que determinen el exito de la actividas.
 Soy estudiante de Ingenieria Industrial, considero que mis habilidades y fortalezas son ser una persona responsable, comprometida y proactiva.
 
 # BravoGestor
