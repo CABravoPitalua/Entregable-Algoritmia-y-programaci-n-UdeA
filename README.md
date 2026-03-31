@@ -15,6 +15,8 @@ El nombre que he elegido es el siguiente:
 
 Nota: La illustración es generada con IA
 
+# 4.licencia
+
 # 5. Reporte de visión
 
 Este proyecto se basa en crear una copnsola para la gestion de prestamo de materiales, el cual debe realiazr las siguientes funciones: 
@@ -44,11 +46,39 @@ Mejorar el orden y control de prestamos y devoluciones, reduior errores, facilit
 # 6. Especificación de requisitos
 
 **Funcionales**
-1. Regristrar Usuarios
-2. Registrar Materiales
-3. Registrar Prestamos
-4. Registrar devoluciones
-5. Acceso administrador
+
+**1. Regristrar Usuarios**
+El usuario debe quedar registrado en el sistema con los siguientes datos básicos:
+- Nombre, este debe tener las siguientes validaciones de ingreso de información:
+  * Longitud, no menor a tres letras
+  * Números, no puede contener números
+- Apellido, este debe tener las siguientes validaciones de ingreso de información:
+  * Longitud, no menor a tres letras
+  * Números, no puede contener números
+- Documento, este debe tener las siguientes validaciones de ingreso de información:
+  * Longitud, debe contener entre 8 y 10 digitos
+  * Numeros, el documento solo debe contener números, no se permite el ingreso de letras u otros caracteres
+- Correo electronico, este debe tener la validación de correo electronico, contener un "@" y debe terminar con "." y "com".
+- Tiempo de préstamo definido a la hora de crear el usuario, se deben ingresar valores entre 1 a 30 días, otros valores no está permitido.
+  
+**2. Regristrar Materiales (objetos a prestar)**
+BravoGestor deberá registrar cada material a prestar, este debe estar categorizado correctamente:
+- Nombre, este debe tener las siguientes validaciones de ingreso de información:
+  * Longitud, no menor a tres letras
+  * Números, no puede contener números
+- Categoría, el material debe estar categorizado entre los siguientes tipos de objetos: 
+Juegos o Herramietas o Electrodomesticos o varios 
+- Precio de compra, se debe registrar el precio de compra del material. 
+-	ID del material, se debe crear un identificador único para cada material con combinaciones entre letras y números, se debe usar la categoría para asociar el ID con el material. 
+-	Estado del material, se debe dar una valoración del estado del material a prestar, se debe utilizar lógica difusa para registrar la calidad o estado del material. 
+
+**3. Registrar Prestamos**
+-El programa 
+
+
+
+5. Registrar devoluciones
+6. Acceso administrador
 
 **No funcionales**
 1. Rendimiento
