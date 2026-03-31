@@ -155,6 +155,7 @@ Para esta primera entrega del proyecto se realizarón las siguientes actividades
 - Tarea 12: Presentar la sustentación del proyecto
 
 **Diagrama de Gantt**
+<img width="1024" height="768" alt="Gráfico Diagrama de Gantt Profesional Multicolor" src="https://github.com/user-attachments/assets/0ff61546-ddd4-4b9c-8a71-56db0762f8d1" />
 
 
 
