@@ -141,29 +141,20 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 
 **Actividades y cronograma**
 Para esta primera entrega del proyecto se realizarón las siguientes actividades y el cronograma respecto las semanas del semestre: 
-- Se definió el problema, sus objetivos y beneficios (semana 7)
-- Se eligió el nombre del proyecto y con ayuda de IA se hizo una imagen representativa (semana 7)
-- Se redactarón los requisitos funcionales y no funcionales (semana 7)
-- Definí la licencia que se usará en el sotware (semana 7)
-- Se organizó el repositorio en GitHub (semana 7)
-- Previamente se descargó y eligió la version de Python y el entorno de desarrollo VSC (semana 7)
-- Se cumplió con la fecha de entrega estipulada por el docente (semana de receso - marzo 31 del 2026)
-- Para seguir con el desarrollo del trabajo (plan de versionado, algoritmo, manual del usuario, GitHub y la sustentación) se espera las indicaciones del docente para la fecha de entrega de esta segunda parte y esperando una fecha limite para presentarla.
-- 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+- Tarea 1: Elegir y descargar la version de Python y el entorno de desarrollo VSC
+- Tarea 2: Definir el problema, sus objetivos y beneficios 
+- Tarea 3: Elegir el nombre del proyecto y con ayuda de IA hacer una imagen representativa 
+- Tarea 4: Redactar los requisitos funcionales y no funcionales 
+- Tarea 5: Definr la licencia que se usará en el sotware 
+- Tarea 6: Organizar el repositorio en GitHub 
+- Tarea 7: Realizar la primera entrega del trabajo
+- Tarea 8: Realizar plan de versionado 
+- Tarea 9: Redactar algoritmo 
+- Tarea 10: Redactar manual del usuario 
+- Tarea 11: Crear un repositoprio en GitHub con credenciales UdeA 
+- Tarea 12: Presentar la sustentación del proyecto
 
-
+**Diagrama de Gantt**
 
 
 
