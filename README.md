@@ -25,13 +25,12 @@ Este proyecto se basa en crear una copnsola para la gestion de prestamo de mater
 2. Registrar materiales
 3. Registrar prestamos
 4. Registrar devoluciones
-5. Consultar prestamos activos
-6. Notificar prestamos con más 20 días
-7. Generar notificación de devolución
+5. Generar certificado de devolución
+6. Generar notificación de devolución
+7. Notificar prestamos con más 20 días
 8. Generar factura de venta para prestamos mayores a 30 días
-9. Generar certificado de devolución
-10. Administrador
-11. Salir
+9. Administrador
+10. Salir
 
 **Objetivo**
 
@@ -73,7 +72,29 @@ Juegos o Herramietas o Electrodomesticos o varios
 -	Estado del material, se debe dar una valoración del estado del material a prestar, se debe utilizar lógica difusa para registrar la calidad o estado del material. 
 
 **3. Registrar Prestamos**
--El programa 
+- El programa deberá verificar que el ususario este registrado antes de registrar el prestamo, en caso que el usuario no esté registrado debe emitir un mensaje de error.
+- El programa deberá permitir seleccionar el material a prestar mediante su ID o código identificador.
+- El programa deberá registrar la fecha del prestamo
+- El programa deberá relacionar el préstamo con el usuario y el material correspondiente.
+
+**4. Registrar Devoluciones**
+- El programa deberá validar que el usuario tenga prestamos activos.
+- El programa deberá registrar la fecha de la devolución
+- El programa deberá actualizar el estado del material a disponible una vez sea devuelto.
+- El programa deberá impedir registrar devoluciones de préstamos inexistentes.
+- El programa deberá mostrar un mensaje de validación cuando no existan préstamos activos para ese usuario.
+
+**5. Generar certificado de devolución**
+- El programa debera generar un certificado cuando se registre la devolución del material.
+- El programa debera incluir los datos del usuario, datos del material y la fecha de la devolución
+
+**6. Generar notificación de devolución.**
+
+**7. Notificar prestamos con más 20 días.**
+- El programa dederácalcular cuantos días han transcurrido desde la fecha inicial del prestamo.
+- El programa deberá filtrar los prestamos que superen los 20 días de duración
+- El programa debera general una notoficación de un aviso de solicitud de devolución
+- El programa deberá mostrar en la notificación la información del usuario y del material que se solicita devolver
 
 
 
