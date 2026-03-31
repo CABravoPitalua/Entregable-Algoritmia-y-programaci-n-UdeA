@@ -116,6 +116,7 @@ El administrador debe tener acceso a los prestamos, las devoluciones, ventas, li
 
 
 **Requisitos No funcionales**
+
 **1. Rendimiento**
 El programa debe responder de manera rapída al registrar, consultar y actualizar informacion sobre los parametros y variables
 
@@ -137,6 +138,31 @@ El proyecto debe desarrollarse de manera organizada paa facilitar en un futuro c
 # 7. Plan del proyecto
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto. 
 ● El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV. 
+
+**Actividades y cronograma**
+Para esta primera entrega del proyecto se realizarón las siguientes actividades y el cronograma respecto las semanas del semestre: 
+- Se definió el problema, sus objetivos y beneficios (semana 7)
+- Se eligió el nombre del proyecto y con ayuda de IA se hizo una imagen representativa (semana 7)
+- Se redactarón los requisitos funcionales y no funcionales (semana 7)
+- Definí la licencia que se usará en el sotware (semana 7)
+- Se organizó el repositorio en GitHub (semana 7)
+- Previamente se descargó y eligió la version de Python y el entorno de desarrollo VSC (semana 7)
+- Se cumplió con la fecha de entrega estipulada por el docente (semana de receso - marzo 31 del 2026)
+- Para seguir con el desarrollo del trabajo (plan de versionado, algoritmo, manual del usuario, GitHub y la sustentación) se espera las indicaciones del docente para la fecha de entrega de esta segunda parte y esperando una fecha limite para presentarla.
+- 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
 
 
 
