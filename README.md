@@ -44,7 +44,7 @@ Mejorar el orden y control de prestamos y devoluciones, reduior errores, facilit
 
 # 6. Especificación de requisitos
 
-**Funcionales**
+**Requisitos Funcionales**
 
 **1. Regristrar Usuarios**
 El usuario debe quedar registrado en el sistema con los siguientes datos básicos:
@@ -115,16 +115,28 @@ El programa debe contar con un modulo de administrador protegido por usuarion y 
 El administrador debe tener acceso a los prestamos, las devoluciones, ventas, lista de usuarios y el inventario de los materiales
 
 
-**No funcionales**
-1. Rendimiento
-2. Compatibilidad
-3. Legibilidad
-4. Seguridad
+**Requisitos No funcionales**
+**1. Rendimiento**
+El programa debe responder de manera rapída al registrar, consultar y actualizar informacion sobre los parametros y variables
+
+**2. Compatibilidad**
+El programa será desarrollado con lenguaje Python y se ejecutara en Visual Studio Code (VSC).
+
+**3. Legibilidad**
+Este proyecto se esta redactando en Markdown en forma estructurada y secciones definidas para facilitar su revisión.
+
+**4. Seguridad**
+El acceso de administrador se protegerá con uuario y contraseña.
+
+**5. Usabilidad**
+El menu de la consola debe tener un menu claro, ordenado y de facil acceso a la infromación para el usuario.
+
+**Mantenibilidad**
+El proyecto debe desarrollarse de manera organizada paa facilitar en un futuro correcciones o mejoras, para permitir incorporar ajustes sin alterar el funcionamiento del programa
 
 # 7. Plan del proyecto
-1. Definir el problema, sus variables, parametros (Hacer una notación de ser posible)
-2. Estimar un cronograma
-3. Presupuesto
+Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto. 
+● El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV. 
 
 
 
