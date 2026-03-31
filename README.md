@@ -16,6 +16,7 @@ El nombre que he elegido es el siguiente:
 Nota: La illustración es generada con IA
 
 # 4.licencia
+Se utilizará la licencia Attribution-NonCommercial-NoDerivatives 4.0 International
 
 # 5. Reporte de visión
 
