@@ -1,10 +1,10 @@
 # Entregable-Algoritmia-y-programaci-n-UdeA
-Actividad evaluativa del cuso Algoritmia y programacion para ingenieros de la Universidad de Antioquia, cuyo proposito es realizar un software con lenguaje Python para gestionar prestamos de materiales
+Actividad evaluativa del currso Algoritmia y programación para ingenieros de la Universidad de Antioquia, cuyo propósito es realizar un software con lenguaje Python para gestionar préstamos de materiales
 # 1 y 2.Integrantes - Descripción
 **Camila Andrea Bravo Pitalua**
 
-Tras no llegar a un acuerdo de compromisos con los compañeros del grupo de estudio para realizar el trabajo, lo realizaré de manera individual por lo tanto relizaré todas las actividades que determinen el exito de la actividas.
-Soy estudiante de Ingenieria Industrial, considero que mis habilidades y fortalezas son ser una persona responsable, comprometida y proactiva.
+Tras no llegar a un acuerdo de compromisos con los compañeros del grupo de estudio para realizar el trabajo, lo realizaré de manera individual por lo tanto realizaré todas las actividades que determinen el éxito de la actividad.
+Soy estudiante de Ingeniería Industrial, considero que mis habilidades y fortalezas son ser una persona responsable, comprometida y proactiva.
 
 # 3. BravoGestor
 El nombre que he elegido es el siguiente: 
@@ -16,7 +16,7 @@ Nota: La illustración es generada con IA
 # 5. Reporte de visión
 **Objetivo**
 
-El objetivo de el proyecto de basa en desarrollar un sistema de consola que ayude al usuario a gestionar prestamos de materiales, el cual permita registrar usuarios, materiales, gestionar los tiempos de prestamo y devolución; y así a su vez medir el aprendizaje del curso y poner en marcha lo aprendido en el curso.
+El objetivo del proyecto se basa en desarrollar un sistema de consola que ayude al usuario a gestionar préstamos de materiales, el cual permita registrar usuarios, materiales, gestionar los tiempos de préstamo y devolución; y así a su vez medir el aprendizaje del curso y poner en marcha lo aprendido en el curso.
 
  **Beneficios**
  
