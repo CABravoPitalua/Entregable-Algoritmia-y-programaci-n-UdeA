@@ -72,34 +72,48 @@ Juegos o Herramietas o Electrodomesticos o varios
 -	Estado del material, se debe dar una valoración del estado del material a prestar, se debe utilizar lógica difusa para registrar la calidad o estado del material. 
 
 **3. Registrar Prestamos**
-- El programa deberá verificar que el ususario este registrado antes de registrar el prestamo, en caso que el usuario no esté registrado debe emitir un mensaje de error.
-- El programa deberá permitir seleccionar el material a prestar mediante su ID o código identificador.
-- El programa deberá registrar la fecha del prestamo
-- El programa deberá relacionar el préstamo con el usuario y el material correspondiente.
+El programa deberá:
+- Verificar que el ususario este registrado antes de registrar el prestamo, en caso que el usuario no esté registrado debe emitir un mensaje de error.
+- Permitir seleccionar el material a prestar mediante su ID o código identificador.
+- Registrar la fecha del prestamo
+- Relacionar el préstamo con el usuario y el material correspondiente.
 
 **4. Registrar Devoluciones**
-- El programa deberá validar que el usuario tenga prestamos activos.
-- El programa deberá registrar la fecha de la devolución
-- El programa deberá actualizar el estado del material a disponible una vez sea devuelto.
-- El programa deberá impedir registrar devoluciones de préstamos inexistentes.
-- El programa deberá mostrar un mensaje de validación cuando no existan préstamos activos para ese usuario.
+El programa deberá:
+- Validar que el usuario tenga prestamos activos.
+- Registrar la fecha de la devolución
+- Actualizar el estado del material a disponible una vez sea devuelto.
+- Impedir registrar devoluciones de préstamos inexistentes.
+- Mostrar un mensaje de validación cuando no existan préstamos activos para ese usuario.
 
 **5. Generar certificado de devolución**
-- El programa debera generar un certificado cuando se registre la devolución del material.
-- El programa debera incluir los datos del usuario, datos del material y la fecha de la devolución
+El programa deberá:
+- Generar un certificado cuando se registre la devolución del material.
+- Incluir los datos del usuario, datos del material y la fecha de la devolución en el certificado.
 
 **6. Generar notificación de devolución.**
+El programa deberá:
+- Emitir un mensaje de aviso cuando el material deba ser devuelto
+- Relacionar el mensaje con el usuario y el material correspondiente
 
 **7. Notificar prestamos con más 20 días.**
-- El programa dederácalcular cuantos días han transcurrido desde la fecha inicial del prestamo.
-- El programa deberá filtrar los prestamos que superen los 20 días de duración
-- El programa debera general una notoficación de un aviso de solicitud de devolución
-- El programa deberá mostrar en la notificación la información del usuario y del material que se solicita devolver
+El programa dederá:
+- Calcular cuantos días han transcurrido desde la fecha inicial del prestamo.
+- Filtrar los prestamos que superen los 20 días de duración
+- Generar una notoficación de un aviso de solicitud de devolución
+- Mostrar en la notificación la información del usuario y del material que se solicita devolver
 
+**8. Generar factura de venta para prestamos mayores a 30 días**
+El programa deberá:
+- Calcular cuantos días han transcurrido desde la fecha inicial del prestamo.
+- Filtrar los prestamos que superen los 30 días de duración
+- Identificar el precio de compra del material
+- Generar una factura con los datos del usuario y del material
 
+**9. Administrador**
+El programa debe contar con un modulo de administrador protegido por usuarion y contraseña, para acceder al sistema el programa debe validar estos datos y restringir el acceso si los datos son erroneos.
+El administrador debe tener acceso a los prestamos, las devoluciones, ventas, lista de usuarios y el inventario de los materiales
 
-5. Registrar devoluciones
-6. Acceso administrador
 
 **No funcionales**
 1. Rendimiento
