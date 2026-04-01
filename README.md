@@ -176,6 +176,6 @@ La distribución estimada del tiempo es la siguiente:
 - Tarea 9: Redactar algoritmo: 25,5
 - Tarea 10: Redactar manual del usuario: 4 horas
 - Tarea 11: Crear un repositorio en GitHub con credenciales UdeA: 0,5 horas
-- Tarea 12: Presentar la sustentación del proyecto: 1 hora
+- Tarea 12: Presentar la sustentación del proyecto: 1,5 horas
 Total estimado: 50 horas
 
